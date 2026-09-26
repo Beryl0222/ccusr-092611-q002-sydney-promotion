@@ -1,0 +1,8 @@
+[build-system]
+requires=[]
+build-backend="setuptools.build_meta"
+[project]
+name="sydney_promotion"
+version="0.1.0"
+description="悉尼文旅推介协作库服务"
+requires-python=">=3.10"
